@@ -19,4 +19,4 @@ module.exports = ->
       # Rewrite image paths during release to be relative to the `img`
       # directory.
       #forceRelative: "dist/"
-      forceRelative: "./"
+      #forceRelative: "./"

@@ -7,6 +7,6 @@ module.exports = ->
       files: [{
           expand: true,
           src: '**/*',
-          cwd: 'app/styles/img/',
-          dest: 'dist/img'
+          cwd: 'app/img/',
+          dest: 'dist/app/img'
       }]

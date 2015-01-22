@@ -8,7 +8,7 @@ module.exports = ->
 
     # Out the concatenated contents of the following styles into the below
     # development file path.
-    "dist/styles.css":
+    "dist/styles/styles.css":
 
       # Point this to where your `index.css` file is location.
       src: "app/styles/index.css"

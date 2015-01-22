@@ -69,6 +69,7 @@ define([
 				this.$main.hide();
 				this.$footer.hide();
 			}
+			this.$("#planetvaimage").attr("src","img/planetva.png");
 
 			this.allCheckbox.checked = !remaining;
 		},

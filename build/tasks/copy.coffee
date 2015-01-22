@@ -8,5 +8,5 @@ module.exports = ->
           expand: true,
           src: '**/*',
           cwd: 'app/img/',
-          dest: 'dist/app/img'
+          dest: 'dist/img'
       }]

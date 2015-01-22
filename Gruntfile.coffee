@@ -21,4 +21,5 @@ module.exports = ->
     "useminPrepare"
     "cssmin"
     "usemin"
+    "remove"
   ]

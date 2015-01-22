@@ -3,7 +3,7 @@ module.exports = ->
 
   @config "usemin",
     html: 'dist/{,*/}*.html'
-    css: 'dist/{,*/}*.css'
+    css: 'dist/styles/{,*/}*.css'
     js: 'dist/{,*/}*.js'
     options:
       assetsDirs: ['dist', 'dist/img']
